@@ -1,4 +1,4 @@
-# Hey! I'm Aditya Kulkarni, a Full-Stack Developer.
+# <p align="center">Hey! I'm Aditya Kulkarni, a Full-Stack Developer</p>
 
 ## 💫 About Me
 - 🔭 Currently diving into **Data Structures & Algorithms (DSA)**.
@@ -65,4 +65,4 @@
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</p>
