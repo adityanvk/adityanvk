@@ -15,8 +15,8 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-kulkarni-bb50aa287"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
-  <a href="https://instagram.com/theadikulkarni"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)" height="60"/></a>
+  <a href="https://www.linkedin.com/in/aditya-kulkarni-bb50aa287"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/theadikulkarni"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)" height="100" /></a>
 </p>
 
 ---
