@@ -1,4 +1,4 @@
-# <p align="center">Hey! I'm Aditya Kulkarni, a Full-Stack Developer</p>
+# <p style="text-align: center;">Hey! I'm Aditya Kulkarni, a Full-Stack Developer</p>
 
 ## 💫 About Me
 - 🔭 Currently diving into **Data Structures & Algorithms (DSA)**.
@@ -14,17 +14,17 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-kulkarni-bb50aa287">
+<p style="text-align: center;">
+  <a href="https://www.linkedin.com/in/aditya-kulkarni-bb50aa287" style="text-decoration:none; margin: 0 5px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/theadikulkarni">
+  <a href="https://instagram.com/theadikulkarni" style="text-decoration:none; margin: 0 5px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:kulkarniaditya746@gmail.com">
+  <a href="mailto:kulkarniaditya746@gmail.com" style="text-decoration:none; margin: 0 5px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/adityanvk">
+  <a href="https://github.com/adityavnk" style="text-decoration:none; margin: 0 5px;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -74,8 +74,8 @@
 
 ---
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+<h3 style="text-align: center;">✍️ Random Dev Quote</h3>
 
-<p align="center">
+<p style="text-align: center;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
